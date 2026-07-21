@@ -1,4 +1,14 @@
 const certifications = [
+  {
+    id: 4,
+    name: 'Networking Basics',
+    issuer: 'Cisco',
+    date: 'July 2026',
+    description: 'Completed the Cisco Networking Basics course, covering network types, data transmission, cabling, IP addressing, transport and application protocols, and home wireless network configuration through Cisco Packet Tracer activities.',
+    link: 'https://www.credly.com/badges/54de17ee-5138-4b18-b610-6e57ad064d02',
+    badge: '/images/networking-basics.png',
+    isCertificate: true
+  },
   { 
     id: 1, 
     name: 'Introduction to Cybersecurity', 

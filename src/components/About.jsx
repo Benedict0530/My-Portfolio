@@ -42,16 +42,16 @@ return (
   marginBottom: '2rem'
 }}>
 <p style={{ marginBottom: '1.5rem' }}>
-  Hi — I'm <strong>Benedict Mendoza</strong>, a Computer Engineer with 2 years of experience in IT support, troubleshooting, and software development.
+  Hi - I'm <strong>Benedict Mendoza</strong>, a Computer Engineer with experience across IT support, networking, troubleshooting, software development, and game development.
 </p>
 <p style={{ color: 'var(--text-secondary)', marginBottom: '1.5rem' }}>
-  I specialize in Android development, game development with Lua, and IT infrastructure. Passionate about building efficient systems and continuously learning new technologies.
+  I enjoy building practical digital solutions, solving technical problems, and continuously exploring new technologies across networking, IT systems, web development, and interactive experiences.
 </p>
 <p className="mono" style={{ 
   color: 'var(--text-tertiary)', 
   fontSize: 'clamp(0.75rem, 2vw, 0.875rem)'
 }}>
-  Python • Java • JavaScript • Lua • HTML/CSS
+  IT Support • Networking • Software Development • Game Development • Web Technologies
 </p>
 </div>
 

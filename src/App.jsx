@@ -12,9 +12,9 @@ return (
 <Header />
 <main style={{ flex: 1, paddingTop: '4rem', paddingBottom: '4rem' }}>
 <About />
+<Certifications />
 <Projects />
 <Experience />
-<Certifications />
 </main>
 <Footer />
 </div>
